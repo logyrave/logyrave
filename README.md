@@ -1,1 +1,1 @@
-Bio-informatics
+Bioinformatics
